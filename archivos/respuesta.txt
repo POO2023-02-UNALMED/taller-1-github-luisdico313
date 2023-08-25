@@ -1,0 +1,1 @@
+Hubo problemas en cuanto a que no apareció la posibilidad de enviar un commit para actualizar la información de la creación de tal carpeta.
