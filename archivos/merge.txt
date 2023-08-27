@@ -1,1 +1,3 @@
-Si la carpeta no tiene archivos el sistema no sube el archivo.
+nombre: Luis Diaz
+edad: 41 años
+aspiración con la materia: aprender a programar con base en el paradigma de programación orientada a objetos.
