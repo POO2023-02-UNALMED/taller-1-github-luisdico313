@@ -1,3 +1,4 @@
 nombre: Luis Diaz
 edad: 41 años
 aspiración con la materia: aprender a programar con base en el paradigma de programación orientada a objetos.
+ ¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?  Porque al contar con dos versiones diferentes del mismo archivo habrá conflictos entre el contenido de las dos versiones.
